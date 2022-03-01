@@ -6,16 +6,24 @@ Owned by Sam Siangchin^^
 
 ## **[The distant future…]**
 
-Invaders from another world attack without warning, unleashing a new type of threat: weapons known as “machine lifeforms.” In the face of this insurmountable threat, mankind is driven from Earth and takes refuge on the Moon.
+# Invaders from another world attack without warning, unleashing a new type of threat: weapons known as “machine lifeforms.” In the face of this insurmountable threat, mankind is driven from Earth and takes refuge on the Moon.
 
-The Council of Humanity organizes a resistance of android soldiers in an effort to take back their planet. To break the deadlock, the Resistance deploys a new unit of android infantry: YoRHa .
+# The Council of Humanity organizes a resistance of android soldiers in an effort to take back their planet. To break the deadlock, the Resistance deploys a new unit of android infantry: YoRHa .
 
-In the forsaken wasteland below, the war between the machines and the androids rages on. A war that is soon to unveil the long-forgotten truth of this world...
+# In the forsaken wasteland below, the war between the machines and the androids rages on. A war that is soon to unveil the long-forgotten truth of this world...
 
 
 ## Char[a]cters
 
 ![2B YoRHa No. 2, Type B](https://venturebeat.com/wp-content/uploads/2017/08/nierautomata-1280-1-1488398963732_1280w.jpg?fit=750%2C422&strip=all)
+
+**2B YoRHa No. 2, Type B**
+
+A blade...with a quiet volition.
+An all purpose battle android deployed as a member of the automated infantry squad, YoRHa. She is equipped with a sword for close-quarters combat, and can attack from range using the "Pod" tactical support system. Members of YoRHa forgo names and are reffered to only by their codes. Through regulations forbid them from expressing emotions, each model has its own distinguishing personality, and 2B is comparitively cool, calm, and collected.
+
+
+
 
 
     
