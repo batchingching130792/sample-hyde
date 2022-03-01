@@ -90,6 +90,10 @@ The Type A is a YoRHa prototype model that is no longer in use. She specilizes i
 </nav>
 
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/siangchinsam)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/siangchinsam/)
+
+
 [![website](./img/twitter-light.svg)](https://twitter.com/siangchinsam)
 
 
