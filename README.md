@@ -44,11 +44,17 @@ Though he has the ability to attack, this YoRHa android specializes in research 
 
 ![A2 (YoRHa Type A, No. 2](https://www.platinumgames.com/wp-content/uploads/2016/03/A2-1.jpg)
 
-**A2 (YoRHa Type A, No. 2**
+**A2 (YoRHa Type A, No. 2)**
 
  A vortex...of the past and hatred.
  
 The Type A is a YoRHa prototype model that is no longer in use. She specilizes in close-range attacks. She was operated in trial basis in the process of developing official models such as 2B and 9S. Personality-wise, she has little to say and always acts independently.  
+
+![Pod 042 and Pod 153](https://www.platinumgames.com/wp-content/uploads/2016/03/Pod_SS_01-1200x675.jpg)
+
+**Pod 042 and Pod 153**
+
+These support units are part of every YoRHa soldier's standard equipment. They come installed with various weapons used for long-range combat, and can also aid their owners in traversal. They can display messages coming in from the Command, and they are also capable of exchanging information among themselves to devise strategies. 2B is followed by Pod 042, while 9S is accompanied by Pod 153.
 
 
 
