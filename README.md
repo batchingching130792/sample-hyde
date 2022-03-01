@@ -15,7 +15,7 @@ Owned by Sam Siangchin^^
 
 ## Char[a]cters
 
-![2B YoRHa No. 2, Type B](https://venturebeat.com/wp-content/uploads/2017/08/nierautomata-1280-1-1488398963732_1280w.jpg?fit=750%2C422&strip=all)
+ ![2B YoRHa No. 2, Type B](https://venturebeat.com/wp-content/uploads/2017/08/nierautomata-1280-1-1488398963732_1280w.jpg?fit=750%2C422&strip=all)
                                                                                                                         
 **2B (YoRHa No. 2, Type B)**
 
@@ -27,7 +27,7 @@ An all purpose battle android deployed as a member of the automated infantry squ
 
 ![9S (YoRHa No. 9, Type S](https://www.platinumgames.com/wp-content/uploads/2016/03/9S.jpg)
 
-**9S (YoRHa No. 9, Type S)**
+ **9S (YoRHa No. 9, Type S)**
 
  A soul...and an ephemeral kindness.
  
