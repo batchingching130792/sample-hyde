@@ -6,6 +6,7 @@ Owned by Sam Siangchin❀
 
 <br />
 <br />
+<br />
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/mOQwMLWEJrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -32,9 +33,9 @@ A blade…with a quiet volition.<br />
 An all-purpose battle android deployed as a member of the automated infantry squad, YoRHa. She is equipped with a sword for close-quarters combat, and can attack from range using the “Pod” tactical support system. Members of YoRHa forgo names and are referred to only by their codes. Though regulations forbid them from expressing emotions, each model has its own distinguishing personality, and 2B is comparatively cool, calm, and collected.<br />
 
 
-</br><br />
-</br><br />
-
+<br />
+<br />
+<br />
 
 
  ![9S (YoRHa No. 9, Type S](https://www.platinumgames.com/wp-content/uploads/2016/03/9S.jpg)
@@ -46,9 +47,9 @@ A soul…and an ephemeral kindness.<br />
 Though he has the ability to attack, this YoRHa android specializes in research missions and excels in collecting information, mainly by hacking. Within YoRHa, 9S is comparatively varied in his emotional expressions and has a kind personality.<br />
 
 
-
-</br><br />
-</br><br />
+<br />
+<br />
+<br />
 
 
 
@@ -60,8 +61,9 @@ Though he has the ability to attack, this YoRHa android specializes in research 
  
 The Type A is a YoRHa prototype model that is no longer in use. She specilizes in close-range attacks. She was operated in trial basis in the process of developing official models such as 2B and 9S. Personality-wise, she has little to say and always acts independently.  
 
-</br><br />
-</br><br />
+<br />
+<br />
+<br />
 
 ![Pod 042 and Pod 153](https://www.platinumgames.com/wp-content/uploads/2016/03/Pod_SS_01-1200x675.jpg)
 
@@ -73,8 +75,9 @@ The Type A is a YoRHa prototype model that is no longer in use. She specilizes i
 
 These support units are part of every YoRHa soldier's standard equipment. They come installed with various weapons used for long-range combat, and can also aid their owners in traversal. They can display messages coming in from the Command, and they are also capable of exchanging information among themselves to devise strategies. 2B is followed by Pod 042, while 9S is accompanied by Pod 153.
 
-</br><br />
-</br><br />
+<br />
+<br />
+<br />
 
 ![Commander](https://www.platinumgames.com/wp-content/uploads/2016/03/Commander_SS_01-1200x675.jpg)
 
