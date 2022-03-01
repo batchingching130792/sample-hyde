@@ -1,5 +1,5 @@
-# [NieR:Automata]
-Owned by Sam Siangchin
+### [NieR:Automata] - Glory to Mankind 
+Owned by Sam Siangchin^^
 
 ![nier automata](https://i.redd.it/9g95ph4na6501.png)
 
