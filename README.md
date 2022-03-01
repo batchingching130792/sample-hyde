@@ -3,7 +3,7 @@ Owned by Sam Siangchin^^
 
 [![Twitter Badge](https://img.shields.io/badge/-@siangchinsam-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/siangchinsam)
 [![Instagram Badge](https://img.shields.io/badge/-@siangchinsam-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/siangchinsam/)
-
+[![Facebook](https://img.shields.io/badge/@SamanthaSiangchin-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white](https://www.facebook.com/samchin.0313/)
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/mOQwMLWEJrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
