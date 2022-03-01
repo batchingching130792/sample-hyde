@@ -56,22 +56,6 @@ The Type A is a YoRHa prototype model that is no longer in use. She specilizes i
 
 
 
-<?php
-    // Get access to $post object
-    global $post;
-    
-    // Get twitter handle
-    $twitter = get_field('twitter', 'options');
-    
-    // define links
-    $links = array(
-        'facebook' => 'https://www.facebook.com/sharer/sharer.php?u=' . get_permalink(),
-        'twitter'  => 'https://twitter.com/intent/tweet?text='. get_the_title() .'&url='. get_permalink() .'&via='. $twitter,
-        'mail'     => 'mailto:?subject='. get_the_title() .'&body=Take a look at this link - ' . get_permalink(),
-        'linkedin' => 'https://www.linkedin.com/shareArticle?mini=true&url='. get_permalink() .'&title='. get_the_title() .'&summary=' . get_the_excerpt(),
-        'gplus'    => 'https://plus.google.com/share?url=' . get_permalink()
-    );
-?>
 
 <nav class="share" role="menu" aria-label="Share Links">
     <li class="share__item">
