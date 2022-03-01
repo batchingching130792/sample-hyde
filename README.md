@@ -35,6 +35,16 @@ Though he has the ability to attack, this YoRHa android specializes in research 
 
 
 
+![A2 (YoRHa Type A, No. 2](https://www.platinumgames.com/wp-content/uploads/2016/03/A2-1.jpg)
+
+**A2 (YoRHa Type A, No. 2**
+
+ A vortex...of the past and hatred.
+ 
+The Type A is a YoRHa prototype model that is no longer in use. She specilizes in close-range attacks. She was operated in trial basis in the process of developing official models such as 2B and 9S. Personality-wise, she has little to say and always acts independently.  
+
+
+
 
 
 
