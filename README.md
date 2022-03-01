@@ -20,8 +20,9 @@ Owned by Sam Siangchin❀
 
  In the forsaken wasteland below, the war between the machines and the androids rages on. A war that is soon to unveil the long-forgotten truth of this world...
 
-</br><br />
-</br><br />
+<br />
+<br />
+<br />
 
 ## Char[a]cters
 
