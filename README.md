@@ -52,10 +52,6 @@ The Type A is a YoRHa prototype model that is no longer in use. She specilizes i
 
 
 
-![Twitter](https://img.shields.io/badge/<samsiangchin>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white/https://twitter.com/siangchinsam)
-
-
-
 
 <nav class="share" role="menu" aria-label="Share Links">
     <li class="share__item">
