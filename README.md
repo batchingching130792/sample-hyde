@@ -90,8 +90,8 @@ The Type A is a YoRHa prototype model that is no longer in use. She specilizes i
 </nav>
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/siangchinsam)
+
 
 
 
