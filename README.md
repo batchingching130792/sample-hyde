@@ -17,17 +17,35 @@ Owned by Sam Siangchin^^
 
 ![2B YoRHa No. 2, Type B](https://venturebeat.com/wp-content/uploads/2017/08/nierautomata-1280-1-1488398963732_1280w.jpg?fit=750%2C422&strip=all)
                                                                                                                         
-Image Credit: Square Enix
-**2B YoRHa No. 2, Type B**
+**2B (YoRHa No. 2, Type B)**
 
 A blade...with a quiet volition.
 An all purpose battle android deployed as a member of the automated infantry squad, YoRHa. She is equipped with a sword for close-quarters combat, and can attack from range using the "Pod" tactical support system. Members of YoRHa forgo names and are reffered to only by their codes. Through regulations forbid them from expressing emotions, each model has its own distinguishing personality, and 2B is comparitively cool, calm, and collected.
 
 
 
+![9S (YoRHa No. 9, Type S](https://www.platinumgames.com/wp-content/uploads/2016/03/9S.jpg)
+
+**9S (YoRHa No. 9, Type S)**
+
+A soul...and an ephemeral kindness.
+Though he has the ability to attack, this YoRHa android specializes in research missions and excels in collecting information, mainly by hacking. Within YoRHa. 9S is comparitively varied in his emotional expressions and has a kind personality.
+
+
+
+
+
+
+
 
 
     
+  
+  
+  
+  
+  
+  
   
   
   
