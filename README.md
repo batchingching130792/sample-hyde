@@ -19,7 +19,7 @@ Owned by Sam Siangchin^^
                                                                                                                         
 **2B (YoRHa No. 2, Type B)**
 
-A blade...with a quiet volition.
+ A blade...with a quiet volition.
 An all purpose battle android deployed as a member of the automated infantry squad, YoRHa. She is equipped with a sword for close-quarters combat, and can attack from range using the "Pod" tactical support system. Members of YoRHa forgo names and are reffered to only by their codes. Through regulations forbid them from expressing emotions, each model has its own distinguishing personality, and 2B is comparitively cool, calm, and collected.
 
 
@@ -28,7 +28,7 @@ An all purpose battle android deployed as a member of the automated infantry squ
 
 **9S (YoRHa No. 9, Type S)**
 
-A soul...and an ephemeral kindness.
+ A soul...and an ephemeral kindness.
 Though he has the ability to attack, this YoRHa android specializes in research missions and excels in collecting information, mainly by hacking. Within YoRHa. 9S is comparitively varied in his emotional expressions and has a kind personality.
 
 
@@ -51,4 +51,4 @@ Though he has the ability to attack, this YoRHa android specializes in research 
   
  [Check out Sir Gain's Github Page](https://641n.github.io/)
 
-Sam was here
+ Sam was here
