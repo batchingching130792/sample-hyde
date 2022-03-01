@@ -114,7 +114,6 @@ A mysterious young man.<br />
 He wears glasses and is extremely intelligent. He has a generally calm personality, but does not shy away from excessive force in order to attain his goals.
 
 <br />
-<br />
 
 **Eve**
 
