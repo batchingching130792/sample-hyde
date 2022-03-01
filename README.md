@@ -1,16 +1,23 @@
 ## **[NieR:Automata] - Glory to Mankind** 
-
 Owned by Sam Siangchin^^
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/mOQwMLWEJrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**[The distant future…]**
+
+## **[The distant future…]**
 
 Invaders from another world attack without warning, unleashing a new type of threat: weapons known as “machine lifeforms.” In the face of this insurmountable threat, mankind is driven from Earth and takes refuge on the Moon.
 
 The Council of Humanity organizes a resistance of android soldiers in an effort to take back their planet. To break the deadlock, the Resistance deploys a new unit of android infantry: YoRHa .
 
 In the forsaken wasteland below, the war between the machines and the androids rages on. A war that is soon to unveil the long-forgotten truth of this world...
+
+
+## Char[a]cters
+
+![2B YoRHa No. 2, Type B](https://venturebeat.com/wp-content/uploads/2017/08/nierautomata-1280-1-1488398963732_1280w.jpg?fit=750%2C422&strip=all)
+
+
     
   
   
