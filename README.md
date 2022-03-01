@@ -86,22 +86,46 @@ These support units are part of every YoRHa soldier's standard equipment. They c
 The leader of the "Bunker," a miilitary base orbiting Earth. She is in charge of all YoRHa units. Her position demands her to be calm and collected at all times, but she seems to worry for the personal safety of 2B and 9S. She also appears to have some kind of history with YoRHa prototype moodel A2.
 
 
-
-
-            
-            
-
-
+<br />
+<br />
+<br />
 
 
 
+![Operator 60 and Operator 210](https://www.platinumgames.com/wp-content/uploads/2016/03/Operator_SS_01.jpg)
 
 
+**Operator 60 and Operator 210**
+
+Two communications operators permanently stationed at the Bunker.
+They are mainly in charge of analyzing intel, and relaying orders to the YoRHa units on the planet’s surface. They have fairly different personalities, with 6O, who’s in charge of 2B, being relatively bright and cheerful, whereas 21O, in charge of 9S, is always cool and composed
 
 
+<br />
+<br />
+<br />
 
 
+![Adam and Eve](https://www.platinumgames.com/wp-content/uploads/2016/03/AdamEve_SS_01.jpg)
 
+**Adam**
+
+A mysterious young man.<br />
+He wears glasses and is extremely intelligent. He has a generally calm personality, but does not shy away from excessive force in order to attain his goals.
+
+<br />
+<br />
+
+**Eve**
+
+Adam’s younger twin.<br />
+Contrary to Adam, Eve is short-tempered and doesn’t like thinking too much. His brother means the world to him.<br />
+
+
+<br />
+<br />
+<br />
+<br />
 
 <nav class="share" role="menu" aria-label="Share Links">
     <li class="share__item">
