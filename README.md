@@ -1,7 +1,7 @@
 ## **[NieR:Automata] - Glory to Mankind** 
 Owned by Sam Siangchin^^     
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/siangchinsam.svg?style=social&label=Follow%20%40siangchinsam)](https://twitter.com/siangchinsam)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/siangchinsam.svg?style=social&label=Follow%20%40siangchinsam)](https://twitter.com/siangchinsam) [![Facebook URL](https://img.shields.io/twitter/url/https/twitter.com/siangchinsam.svg?style=social&label=Follow%20%40siangchinsam)]
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/mOQwMLWEJrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -88,6 +88,10 @@ The Type A is a YoRHa prototype model that is no longer in use. She specilizes i
         <a href="<?php echo $links['gplus']; ?>" class="share__link"><span class="icon icon--xlarge icon--social-gp"></span><span class="is-hidden">Share this Post on Google Plus</span></a>
     </li>
 </nav>
+
+
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 
 
 
