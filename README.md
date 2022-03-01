@@ -16,7 +16,8 @@ Owned by Sam Siangchin^^
 ## Char[a]cters
 
 ![2B YoRHa No. 2, Type B](https://venturebeat.com/wp-content/uploads/2017/08/nierautomata-1280-1-1488398963732_1280w.jpg?fit=750%2C422&strip=all)
-                                                                                                                        Image Credit: Square Enix
+                                                                                                                        
+Image Credit: Square Enix
 **2B YoRHa No. 2, Type B**
 
 A blade...with a quiet volition.
