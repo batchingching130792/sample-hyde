@@ -25,7 +25,10 @@ An all purpose battle android deployed as a member of the automated infantry squ
 
 
 
-![9S (YoRHa No. 9, Type S](https://www.platinumgames.com/wp-content/uploads/2016/03/9S.jpg)
+
+
+
+ ![9S (YoRHa No. 9, Type S](https://www.platinumgames.com/wp-content/uploads/2016/03/9S.jpg)
 
  **9S (YoRHa No. 9, Type S)**
 
