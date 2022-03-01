@@ -14,5 +14,4 @@ Owned by Sam Siangchin
   
   
   
-  
-  [Check out Sir Gain's Github Page](https://641n.github.io/)
+  (https://641n.github.io/)
