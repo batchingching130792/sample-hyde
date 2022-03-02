@@ -10,7 +10,6 @@ Owned by Sam Siangchin❀
 <iframe width="640" height="360" src="https://www.youtube.com/embed/mOQwMLWEJrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
-<br />
 
 ## **[The distant future…]**
 
