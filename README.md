@@ -137,6 +137,10 @@ Despite being a machine lifeform, Pascal is a pacifist and despises any kind of 
 <br />
 <br />
 
+![Emil](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.siliconera.com%2Fnier-replicant-find-emil-contest-seeks-emils-giant-head%2F&psig=AOvVaw3UqVXnLRpq3hE7S8lzr08v&ust=1646311742910000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCwgba7p_YCFQAAAAAdAAAAABAF)
+
+#### **Pascal**
+
 ![Devola and Popola](https://www.platinumgames.com/wp-content/uploads/2016/03/DevolaPopola_SS_01.jpg)
 
 #### **Devola and Popola**
