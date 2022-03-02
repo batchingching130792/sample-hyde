@@ -1,4 +1,4 @@
-## **[NieR:Automata] - Glory to Mankind** 
+# **[NieR:Automata] - Glory to Mankind** 
 Owned by Sam Siangchin❀     
 
 [![Twitter](https://img.shields.io/badge/@siangchinsam-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/siangchinsam)[![Instagram](https://img.shields.io/badge/@siangchinsam-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/siangchinsam/)[![Facebook](https://img.shields.io/badge/@SamanthaSiangchin-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/samchin.0313/)[![GitHub](https://img.shields.io/badge/shamshangchuan.github.io-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamshangchuan/shamshangchuan.github.io)
