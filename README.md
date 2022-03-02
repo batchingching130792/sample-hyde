@@ -26,7 +26,7 @@ Owned by Sam Siangchin❀
 
  ![2B YoRHa No. 2, Type B](https://venturebeat.com/wp-content/uploads/2017/08/nierautomata-1280-1-1488398963732_1280w.jpg?fit=750%2C422&strip=all)
                                                                                                                         
-**2B (YoRHa No. 2, Type B)**
+### **2B (YoRHa No. 2, Type B)**
 
 A blade…with a quiet volition.<br />
 
@@ -40,7 +40,7 @@ An all-purpose battle android deployed as a member of the automated infantry squ
 
  ![9S (YoRHa No. 9, Type S](https://www.platinumgames.com/wp-content/uploads/2016/03/9S.jpg)
 
- **9S (YoRHa No. 9, Type S)**
+ ### **9S (YoRHa No. 9, Type S)**
 
 A soul…and an ephemeral kindness.<br />
 
@@ -71,7 +71,7 @@ The Type A is a YoRHa prototype model that is no longer in use. She specilizes i
 
 
 
-**Pod 042 and Pod 153**
+### **Pod 042 and Pod 153**
 
 These support units are part of every YoRHa soldier's standard equipment. They come installed with various weapons used for long-range combat, and can also aid their owners in traversal. They can display messages coming in from the Command, and they are also capable of exchanging information among themselves to devise strategies. 2B is followed by Pod 042, while 9S is accompanied by Pod 153.
 
@@ -81,7 +81,7 @@ These support units are part of every YoRHa soldier's standard equipment. They c
 
 ![Commander](https://www.platinumgames.com/wp-content/uploads/2016/03/Commander_SS_01-1200x675.jpg)
 
-**Commander**
+### **Commander**
 
 The leader of the "Bunker," a miilitary base orbiting Earth. She is in charge of all YoRHa units. Her position demands her to be calm and collected at all times, but she seems to worry for the personal safety of 2B and 9S. She also appears to have some kind of history with YoRHa prototype moodel A2.
 
@@ -95,7 +95,7 @@ The leader of the "Bunker," a miilitary base orbiting Earth. She is in charge of
 ![Operator 60 and Operator 210](https://www.platinumgames.com/wp-content/uploads/2016/03/Operator_SS_01.jpg)
 
 
-**Operator 60 and Operator 210**
+### **Operator 60 and Operator 210**
 
 Two communications operators permanently stationed at the Bunker.
 They are mainly in charge of analyzing intel, and relaying orders to the YoRHa units on the planet’s surface. They have fairly different personalities, with 6O, who’s in charge of 2B, being relatively bright and cheerful, whereas 21O, in charge of 9S, is always cool and composed
@@ -108,14 +108,14 @@ They are mainly in charge of analyzing intel, and relaying orders to the YoRHa u
 
 ![Adam and Eve](https://www.platinumgames.com/wp-content/uploads/2016/03/AdamEve_SS_01.jpg)
 
-**Adam**
+### **Adam**
 
 A mysterious young man.<br />
 He wears glasses and is extremely intelligent. He has a generally calm personality, but does not shy away from excessive force in order to attain his goals.
 
 <br />
 
-**Eve**
+### **Eve**
 
 Adam’s younger twin.<br />
 Contrary to Adam, Eve is short-tempered and doesn’t like thinking too much. His brother means the world to him.<br />
@@ -123,7 +123,7 @@ Contrary to Adam, Eve is short-tempered and doesn’t like thinking too much. Hi
 
 ![Pascal](https://www.platinumgames.com/wp-content/uploads/2016/03/Pascal_SS_01.jpg)
 
-**Pascal**
+### **Pascal**
 
 Despite being a machine lifeform, Pascal is a pacifist and despises any kind of conflict. He is searching for the path to peace, along with other likeminded machine lifeforms. He is very intelligent, and shows a great interest in the history of humanity and machines alike.
 
@@ -134,7 +134,7 @@ Despite being a machine lifeform, Pascal is a pacifist and despises any kind of 
 
 ![Devola and Popola](https://www.platinumgames.com/wp-content/uploads/2016/03/DevolaPopola_SS_01.jpg)
 
-**Devola and Popola**
+### **Devola and Popola**
 
 A pair of old android models residing at the Resistance camp.
 They are aware that two identical models went haywire in the distant past, and they’ve always considered themselves responsible somehow. They are unique androids in that they are capable of consuming alcohol.
