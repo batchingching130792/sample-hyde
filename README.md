@@ -157,6 +157,8 @@ They are aware that two identical models went haywire in the distant past, and t
 [![PLATINUM GAMES](https://user-images.githubusercontent.com/99858112/155126762-6e3a0aae-767a-40bd-9aa5-8451e1690d2d.png)](https://www.platinumgames.com/games/nier-automata?age-verified=6c3e573ac3)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oBd8dipYBFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 |  Weapon  |  Attack  |  Combo  |  Special Abilities  |  Location  |
