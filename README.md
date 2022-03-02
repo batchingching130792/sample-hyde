@@ -7,7 +7,7 @@ Owned by Sam Siangchin❀
 <br />
 <br />
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/mOQwMLWEJrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mOQwMLWEJrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## **[The distant future…]**
@@ -145,6 +145,128 @@ They are aware that two identical models went haywire in the distant past, and t
 <br />
 <br />
 <br />
+
+
+
+|  Weapon  |  Attack  |  Combo  |  Special Abilities  |  Location  |
+| Beastbane"><img src="/file/Nier-Automata/beastbane_01.jpg" alt="" width="200"></a></h4> <h4><a class="wiki_link" title="" href="/Beastbane" target="">Beastbane</a></h4> </td> | ----------- |
+| Beastbane"><img src="/file/Nier-Automata/beastbane_01.jpg" alt="" width="200"></a></h4> <h4><a class="wiki_link" title="" href="/Beastbane" target="">Beastbane</a></h4> </td>  | Title |
+| Paragraph | Text |
+
+
+<thead> 
+   <tr> 
+    <td style="width: 214px;"> <h4><strong>Weapon</strong></h4> </td> 
+    <td style="width: 106px;"> <h4><strong>Attack</strong></h4> </td> 
+    <td style="width: 101px;"> <h4><strong>Combo</strong></h4> </td> 
+    <td style="width: 494px;"> <h4><strong>Special Abilities</strong></h4> </td> 
+    <td style="width: 494px;"> <h4><strong>Location</strong></h4> </td> 
+   </tr> 
+  </thead> 
+  <tbody> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" href="/Beastbane"><img src="/file/Nier-Automata/beastbane_01.jpg" alt="" width="200"></a></h4> <h4><a class="wiki_link" title="" href="/Beastbane" target="">Beastbane</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>190 - 210</p> <p>LV4:<br>722 - 798</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 4<br>Heavy: 2</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>Endurance Up (Increases DEF)</p> <p>Beast Roar (Increases attack range)</p> </td> 
+    <td style="width: 494px;"> <p>[Route A,B] <a class="wiki_link" title="" href="/Resistance+Camp+Weapons+Trader" target="">Resistance Camp Weapons Trader</a>.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" href="/Engine+Blade"><img src="/file/Nier-Automata/engine-blade-nier-automata.jpg" width="200"></a></h4> <h4><a class="wiki_link" title="" href="/Engine+Blade" target="">Engine Blade</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>160 - 200</p> <p>LV4:<br>608 - 760</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 5<br>Heavy: 3</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>Stun Up</p> <p>Shift Avoid (A purely cosmetic change to evade animations &amp; damage numbers)</p> </td> 
+    <td style="width: 494px;"> <p>[Route A, C/D] Abandoned Factory.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" href="/Faith"><img src="/file/Nier-Automata/Faith.jpg" width="200"></a></h4> <h4><a class="wiki_link" href="/Faith">Faith</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br><span style="font-size: 12pt;">160 - 190</span></p> <p><span style="font-size: 12pt;">LV4:<br>608 - 722</span></p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 5<br>Heavy: 3</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>&nbsp;ATK Speed Up</p> <p>Bullet Absorb (HP restored when hitting enemy projectile with a melee attack)</p> </td> 
+    <td style="width: 494px;"> <p>[Route C/D] Flooded City Resource Unit.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><img src="/file/Nier-Automata/Type 40.bmp" alt="" width="199"></h4> <h4><a class="wiki_link" href="/Type-40+Sword">Type-4O Sword</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>170 - 180</p> <p>LV4:<br>646 - 684</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 5<br>Heavy: 3</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p><span style="font-size: 12pt;">Stun Up</span></p> <p><span style="font-size: 12pt;">Energy Charge (Increases damage while&nbsp;standby)</span></p> <p>&nbsp;</p> </td> 
+    <td style="width: 494px;"> <p><span style="font-size: 12pt;">[Route A] Reward for Side Quest " <a class="wiki_link" href="/Find+a+Present">Find a Present</a>". </span></p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" href="/Type-3+Sword"><img src="/file/Nier-Automata/Type-3_Sword.png" width="200"></a></h4> <h4><a class="wiki_link" href="/Type-3+Sword">Type-3 Sword</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>130 - 220&nbsp;</p> <p>LV4:<br>494 - 836</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 3<br>Heavy: 1</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>Endurance Up (Increase DEF)</p> <p>Finish Blast (Adds an additional attack after finishing a combo)</p> </td> 
+    <td style="width: 494px;"> <p>[Route A,C/D] Popola and Devola's shop.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" href="/Ancient+Overlord"><img src="/file/Nier-Automata/ancient_overlord_01.jpg" alt="" width="200"></a></h4> <h4><a class="wiki_link" title="" href="/Ancient+Overlord" target="">Ancient Overlord</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>150 - 185</p> <p>LV4:<br>570 - 703</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 4<br>Heavy: 2</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>Critical+</p> <p>Bullet Rupture (Enemy projectiles explode when struck)</p> </td> 
+    <td style="width: 494px;"> <p>[Route A,B] <a class="wiki_link" title="" href="/Resistance+Camp+Weapons+Trader" target="">Resistance Camp Weapons Trader</a>.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" title="" href="/Virtuous+Contract" target=""><img src="/file/Nier-Automata/virtuous_contract.png" width="200"></a></h4> <h4><a class="wiki_link" title="" href="/Virtuous+Contract" target="">Virtuous Contract</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>150 - 180&nbsp;</p> <p>LV4:<br>570 - 684</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 4<br>Heavy: 2</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>ATK Speed Up</p> <p>Holy Blessing (Increases ATK&nbsp;when HP at full)</p> </td> 
+    <td style="width: 494px;"> <p>[Route A] 2B's default weapon.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" href="/Cruel+Oath"><img src="/file/Nier-Automata/Cruel_Oath.jpg" width="200"></a></h4> <h4><a class="wiki_link" href="/Cruel+Oath">Cruel Oath</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>150 - 180</p> <p>LV4:<br>570 - 684</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 4<br>Heavy: 2</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>ATK Speed Up</p> <p>Dark Impulse (Increases ATK&nbsp;when HP at critical)</p> </td> 
+    <td style="width: 494px;"> <p>[Route B] 9S' default weapon.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" href="/YoRHa-issue+Blade"><img src="/file/Nier-Automata/YoRHa-issue_Blade.jpg" width="200"></a></h4> <h4><a class="wiki_link" title="" href="/YoRHa-issue+Blade" target="">YoRHa-issue Blade</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>150 - 180</p> <p>LV4:<br>570 - 684</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 4<br>Heavy: 2</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>Discount (30% off on all items sold by androids)</p> <p>Pod Charge (Melee attacks charges pod cooldown)</p> </td> 
+    <td style="width: 494px;"> <p>[Route A] Quest Reward: <a class="wiki_link" href="/11B's+Memento">11B's Memento</a>.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><img src="/file/Nier-Automata/Phoenix_Dagger.jpg" alt="" width="200"></h4> <h4><a class="wiki_link" href="/Phoenix+Dagger">Phoenix Dagger</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>130 - 190</p> <p>LV4:<br>494 - 722</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 4<br>Heavy: 2</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p><span style="font-size: 12pt;">ATK Speed Up</span></p> <p><span style="font-size: 12pt;">Phoenix Flash (Sometimes restore HP when attacks hit)</span></p> </td> 
+    <td style="width: 494px;"><span style="font-size: 12pt;">[Route A,B] Just before the hanging bridge leading to the Shopping Mall, go right along the cliffs until you reach the end. Then drop down a few ledges where you will find an elevator. Take it down and go left until you reach a waterfall. The dagger is in an unlocked chest near the pool.</span></td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" href="/Machine+Sword"><img src="/file/Nier-Automata/Machine_Sword.jpg" width="200"></a></h4> <h4><a class="wiki_link" href="/Machine+Sword">Machine Sword</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>140 - 210</p> <p>LV4:<br>392 - 588</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 4<br>Heavy: 1</p> <p>LV4:<br>Light: 6<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>Robot Discount (30% off on all items sold by robots)</p> <p>Machine Brand (Increases weapon damage in proportion&nbsp;to enemies defeated)</p> </td> 
+    <td style="width: 494px;"> <p>[Route A,B] Pascal's Village Weapons Trader.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><img src="/file/Nier-Automata/Iron_Pipe.jpg" width="200"></h4> <h4><a class="wiki_link" title="" href="/Iron+Pipe" target="">Iron Pipe</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>30 - 220</p> <p>LV4:<br>114 - 836</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 2<br>Heavy: 1</p> <p>LV4:<br>Light: 5<br>Heavy: 2</p> </td> 
+    <td style="width: 494px;"> <p>Critical+</p> <p>High Stun</p> </td> 
+    <td style="width: 494px;"> <p>[Route A,B,C] Can be found by fishing&nbsp;in the sewer system between the <a class="wiki_link" href="/City+Ruins">City Ruins</a> and the <a class="wiki_link" href="/Abandoned+Amusement+Park">Amusement Park</a>&nbsp;and in the sewer system between the <a class="wiki_link" title="City Ruins" href="/City+Ruins">City Ruins</a>&nbsp;and the <a class="wiki_link" title="Flooded City" href="/Flooded+City">Flooded City</a>.</p> </td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center; width: 214px;"> <h4><a class="wiki_link" href="/Cypress+Stick"><img src="/file/Nier-Automata/Cypress_Stick.jpg" width="200"></a></h4> <h4><a class="wiki_link" title="" href="/Cypress+Stick" target="">Cypress Stick</a></h4> </td> 
+    <td style="width: 106px;"> <p><sub>LV1:</sub><br>60 - 80</p> <p>LV4:<br>228 - 304</p> </td> 
+    <td style="width: 101px;"> <p><sub>LV1:</sub><br>Light: 4&nbsp;<br>Heavy: 1</p> <p>LV4:<br>Light: 7<br>Heavy: 3</p> </td> 
+    <td style="width: 494px;"> <p>Critical+</p> <p>Hero Sigil (A purely cosmetic change to damage numbers &amp; chests)</p> </td> 
+    <td style="width: 494px;"> <p>[Route A,B,C]&nbsp;Forest: Castle Front, on the area with huge arches where you fight a <a class="wiki_link" href="/Goliath+Biped">Goliath Biped</a>. Go up a fallen pillar near the big wooden gate and platform along until you reach a chest with the weapon inside.</p> </td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div> 
+<p>&nbsp;</p> 
+<p><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c  no-repeat scroll 3px 50% / 14px 14px; opacity: 1; display: none; cursor: pointer; top: 1151px; left: 74px;">Save</span></p>
+
+</div></p>
+		
+	
+
+	</div>
+
 
 
 <nav class="share" role="menu" aria-label="Share Links">
