@@ -41,7 +41,7 @@ An all-purpose battle android deployed as a member of the automated infantry squ
 
  ![9S (YoRHa No. 9, Type S](https://www.platinumgames.com/wp-content/uploads/2016/03/9S.jpg)
  
- #### **9S (YoRHa No. 9, Type S)**
+#### **9S (YoRHa No. 9, Type S)**
 
 A soul…and an ephemeral kindness.<br />
 
@@ -120,6 +120,10 @@ He wears glasses and is extremely intelligent. He has a generally calm personali
 
 Adam’s younger twin.<br />
 Contrary to Adam, Eve is short-tempered and doesn’t like thinking too much. His brother means the world to him.<br />
+
+<br />
+<br />
+<br />
 
 
 ![Pascal](https://www.platinumgames.com/wp-content/uploads/2016/03/Pascal_SS_01.jpg)
