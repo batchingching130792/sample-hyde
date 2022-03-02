@@ -152,6 +152,12 @@ They are aware that two identical models went haywire in the distant past, and t
 <br />
 
 
+[![SQUARE ENIX](https://user-images.githubusercontent.com/99858112/155126762-6e3a0aae-767a-40bd-9aa5-8451e1690d2d.png)](https://nierautomata.square-enix-games.com/en-us/home/)
+
+[![PLATINUM GAMES](https://user-images.githubusercontent.com/99858112/155126762-6e3a0aae-767a-40bd-9aa5-8451e1690d2d.png)](https://www.platinumgames.com/games/nier-automata?age-verified=6c3e573ac3)
+
+
+
 
 |  Weapon  |  Attack  |  Combo  |  Special Abilities  |  Location  |
 | Beastbane"><img src="/file/Nier-Automata/beastbane_01.jpg" alt="" width="200"></a></h4> <h4><a class="wiki_link" title="" href="/Beastbane" target="">Beastbane</a></h4> </td> | ----------- |
