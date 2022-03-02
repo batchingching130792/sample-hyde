@@ -339,6 +339,18 @@ RTHBRTGRTGBH
  [Check out Sir Gain's Github Page](https://641n.github.io/)
  
  
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<i class="fa-duotone fa-gears"></i></span> 
+ 
+ 
  ![yiere](https://user-images.githubusercontent.com/99950371/156363733-90d5e47d-e601-4001-8eb3-fa68492fd6e2.png)
 
 
