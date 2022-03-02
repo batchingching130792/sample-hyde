@@ -290,105 +290,24 @@ They are aware that two identical models went haywire in the distant past, and t
   sdfcd
   
   
-  
-  
- 
-             
-             
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/babylons-fall">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2018/06/Thumbnail-552x344.jpg);">        </figure>
-        <h1 class="title jp">BABYLON’S FALL</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/sol-cresta">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2021/08/Tile_end_EN-552x344.jpg);">        </figure>
-        <h1 class="title jp">SOL CRESTA</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/bayonetta-3">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2017/12/tjp0awo5n9ebuw9EN-552x344.jpg);">        </figure>
-        <h1 class="title jp">BAYONETTA 3</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/world-of-demons">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2018/04/thumbnail552x344h_Ti82SLQH_WoD-552x344.png);">        </figure>
-        <h1 class="title jp">WORLD OF DEMONS</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/the-wonderful-101">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tunmb_101.jpg);">        </figure>
-        <h1 class="title jp">THE WONDERFUL 101: REMASTERED</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/astral-chain">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2019/02/thumb_ac2.jpg);">        </figure>
-        <h1 class="title jp">ASTRAL CHAIN</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/bayonetta-2">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tunmb_bayo2.jpg);">        </figure>
-        <h1 class="title jp">BAYONETTA 2</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/bayonetta">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tunmb_bayo.jpg);">        </figure>
-        <h1 class="title jp">BAYONETTA</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/tmnt-mutants-in-manhattan">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tumb_tmnt.jpg);">        </figure>
-        <h1 class="title jp">TEENAGE MUTANT NINJA TURTLES: <br>MUTANTS IN MANHATTAN</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/vanquish">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/keyvisual_VQ-680x347-1-552x344.jpg);">        </figure>
-        <h1 class="title jp">VANQUISH</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/star-fox-zero">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tunmb_sf.jpg);">        </figure>
-        <h1 class="title jp">STAR FOX ZERO</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/transformers-devastation">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tunmb_TF-1.jpg);">        </figure>
-        <h1 class="title jp">TRANSFORMERS: DEVASTATION</h1>
-    </a>
-</article>
-<article class="m-media type-games">
-    <a class="cf" href="https://www.platinumgames.com/games/the-legend-of-korra">
-        <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tunmb_LoK.jpg);">        </figure>
-        <h1 class="title jp">THE LEGEND OF KORRA</h1>
     </a>
 </article>
 <article class="m-media type-games">
     <a class="cf" href="https://www.platinumgames.com/games/metal-gear-rising-revengeance">
         <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tunmb_mgr.jpg);">        </figure>
-        <h1 class="title jp">METAL GEAR RISING: REVENGEANCE</h1>
+        <h1 class="title jp">HORIZON ZERO DAWN</h1>
     </a>
 </article>
 <article class="m-media type-games">
     <a class="cf" href="https://www.platinumgames.com/games/anarchy-reigns">
         <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tunmb_MA.jpg);">        </figure>
-        <h1 class="title jp">ANARCHY REIGNS</h1>
+        <h1 class="title jp">PERSONA 5:THE ROYAL</h1>
     </a>
 </article>
 <article class="m-media type-games">
     <a class="cf" href="https://www.platinumgames.com/games/madworld">
         <figure class="image" style="background-image: url(https://www.platinumgames.com/wp-content/uploads/2016/03/tunmb_mw.jpg);">        </figure>
-        <h1 class="title jp">MADWORLD</h1>
+        <h1 class="title jp">FINAL FANTASY XV</h1>
     </a>
 </article>
 <article class="m-media type-games">
