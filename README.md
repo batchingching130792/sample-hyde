@@ -333,5 +333,9 @@ They are aware that two identical models went haywire in the distant past, and t
 RTHBRTGRTGBH
   
  [Check out Sir Gain's Github Page](https://641n.github.io/)
+ 
+ 
+ ![yiere](https://user-images.githubusercontent.com/99950371/156363733-90d5e47d-e601-4001-8eb3-fa68492fd6e2.png)
+
 
  Sam was here
