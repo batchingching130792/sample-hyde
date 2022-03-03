@@ -137,9 +137,11 @@ Despite being a machine lifeform, Pascal is a pacifist and despises any kind of 
 <br />
 <br />
 
-![Emil](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.siliconera.com%2Fnier-replicant-find-emil-contest-seeks-emils-giant-head%2F&psig=AOvVaw3UqVXnLRpq3hE7S8lzr08v&ust=1646311742910000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCwgba7p_YCFQAAAAAdAAAAABAF)
+![Emil](https://www.siliconera.com/wp-content/uploads/2021/05/NieR-Replicant-Find-Emil-1-1.jpg)
 
-#### **Pascal**
+#### **Emil**
+
+
 
 ![Devola and Popola](https://www.platinumgames.com/wp-content/uploads/2016/03/DevolaPopola_SS_01.jpg)
 
@@ -337,18 +339,6 @@ They are aware that two identical models went haywire in the distant past, and t
 RTHBRTGRTGBH
   
  [Check out Sir Gain's Github Page](https://641n.github.io/)
- 
- 
-	</head>
-	<body class="is-preload">
-
-		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Header -->
-					<header id="header">
-						<div class="logo">
-							<i class="fa-duotone fa-gears"></i></span> 
  
  
  ![yiere](https://user-images.githubusercontent.com/99950371/156363733-90d5e47d-e601-4001-8eb3-fa68492fd6e2.png)
